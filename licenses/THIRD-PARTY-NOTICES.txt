@@ -1,0 +1,61 @@
+SNOWLINE — Third-party notices
+================================
+
+This project is a self-contained demo. It uses the open-source packages listed
+below. All game content (terrain, course layout, 3D models, shaders, textures,
+UI, and audio synthesis) is original to this project. No third-party art,
+textures, models, music, or brand assets are included. Interface body text uses
+platform system fonts. Display titles use the bundled font listed below.
+
+Font asset
+----------
+Lilita One — SIL Open Font License 1.1
+Copyright (c) 2011 Juan Montoreano (juan@remolacha.biz),
+with Reserved Font Names "Lilita One".
+The unmodified font is distributed in public/fonts/lilita-one.ttf (fonts/ in
+built output). The complete license and copyright notice are in fonts/OFL.txt.
+  https://fonts.gstatic.com/s/lilitaone/v17/i7dPIFZ9Zz-WBtRtedDbUEY.ttf
+
+Runtime dependencies
+--------------------
+three 0.180.0 — MIT — Copyright © 2010-2025 three.js authors (mrdoob and contributors)
+  https://github.com/mrdoob/three.js
+
+react 19.1.1 — MIT — Copyright © Meta Platforms, Inc. and affiliates
+react-dom 19.1.1 — MIT — Copyright © Meta Platforms, Inc. and affiliates
+  https://github.com/facebook/react
+
+Development dependencies (not shipped in the built demo)
+--------------------------------------------------------
+vite 7.1.7 — MIT — Copyright © Evan You and Vite contributors
+@vitejs/plugin-react 5.0.4 — MIT — Copyright © Evan You
+tsx 4.20.6 — MIT — Copyright © Hiroki Osame
+typescript 5.9.2 — Apache License 2.0 — Copyright © Microsoft Corporation
+@types/node, @types/react, @types/react-dom, @types/three — MIT — Copyright © DefinitelyTyped contributors
+
+License texts
+-------------
+MIT License (applies to the MIT-licensed packages above)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+TypeScript is licensed under the Apache License, Version 2.0. A copy of the
+license is available at:
+  https://www.apache.org/licenses/LICENSE-2.0
+and is included with the TypeScript package under node_modules/typescript/LICENSE.txt.
